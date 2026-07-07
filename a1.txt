@@ -1,1 +1,2 @@
 a1 file first line
+a2 file new second line
